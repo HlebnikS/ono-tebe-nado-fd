@@ -77,7 +77,7 @@
   text-transform: uppercase;
   color: #fff;
   gap: 20px;
-  font-family: "Raleway";
+  font-family: "Raleway" Arial;
   position: relative;
   z-index: 1;
 }
@@ -254,15 +254,8 @@
   padding: 3px 50px 82px;
 }
 
-.footer__address {
-  display: flex;
-  flex-direction: column;
-  align-items: start;
-  justify-content: center;
-  width: 240px;
-  line-height: 135%;
-  font-style: normal;
-  font-size: 18px;
+.adress_no-morgin {
+  margin: 0;
 }
 
 .footer__menu {
@@ -279,7 +272,7 @@
 
 .footer__menu-list-item {
   font-weight: 400;
-  font-size: 17px;
+  font-size: 18px;
   list-style: none;
 }
 
