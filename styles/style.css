@@ -77,7 +77,7 @@
   text-transform: uppercase;
   color: #fff;
   gap: 20px;
-  font-family: "Raleway" Arial;
+  font-family: "Raleway", Arial;
   position: relative;
   z-index: 1;
 }
